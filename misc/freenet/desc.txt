@@ -1,0 +1,5 @@
+Is it called freenet or something else? Whatever it is, JUST USE IT AND GET THE FLAG!
+
+Flag format - arpcon{fl4g_h3r3}
+
+Author: http.deep

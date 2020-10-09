@@ -1,0 +1,4 @@
+A group of people tried to rebuild up FraudCompany after it was destroyed in last CTF.
+Teach them that their malicious intentions will never be fulfilled, by getting secret flag.  
+
+http://fraudcompany3.arpcon.tech/

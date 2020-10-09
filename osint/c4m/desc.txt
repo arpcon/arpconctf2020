@@ -1,0 +1,6 @@
+Can you find out the CAMERA MODEL from which this image has been clicked?
+
+FLAG FORMAT: arpcon{CAMERA_MODELNUM}
+
+Author: http.deep
+

@@ -1,0 +1,3 @@
+1. Name - CropperSMIth
+
+We are obliged to use the most popular network management protocol, Peter do you know how to guide it? We hope you are not casual about it. Take care of the policies. Keep up with the changes. But I wonder, how would you know what type of data is to be stored for an object? I mean, time plays an important role in our networks. We don't compromise with the precision, is it clear? Just to confirm, if you know the length (bytes) of this data type, calculate how less it is from a C double word, and raise it to the power of 6, what do you get?

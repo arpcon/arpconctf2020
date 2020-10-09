@@ -1,0 +1,7 @@
+We urgently need to find what's the name of the `Senior Digital Forensics Analyst` at `Group-IB`
+
+PLEASEEE FIND HIS NAME!
+
+Flag Format: arpcon{firstname_lastname}
+
+Points: 150

@@ -1,0 +1,4 @@
+Here forensics experts got some artifacts of malware software (don't worry file is not malware)
+You need to find physical address and find  this malware software folder path (not full path) 
+
+Flag format: arpcon{software/file/file.exe}

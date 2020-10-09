@@ -1,0 +1,3 @@
+4. Name - APMan
+
+Modern network engineers are not much aware of the traditional AP Managers, especially based on SNMP? Or are they? Well, take the example of ORiNOCO. It has a strong relation with the access point's operating system. Although setting a large number of variables on the access point was only an SNMP tactic, but something must have facilitated this. Maybe some enterprise software? What is that enterprise number?

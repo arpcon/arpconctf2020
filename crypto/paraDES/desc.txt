@@ -1,0 +1,1 @@
+For meeting with the solution you need to be familiar with the attacks on double encryption with symmetric ciphers. Here's the thing you'll need:

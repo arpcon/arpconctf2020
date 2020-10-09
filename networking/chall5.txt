@@ -1,0 +1,3 @@
+5. Name - LulCrypt
+
+Not every MiTM involves a Man (feminism ALERT), especially in cryptography. We should thank D and K for telling us why not to use Double encryption with the same key size. If we have the key size as 16, can I reduce the overhead to decipher the keys from known ciphertext-plaintext pairs, in a double encryption? If yes, to how much?
