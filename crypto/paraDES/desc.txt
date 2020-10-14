@@ -1,1 +1,2 @@
 For meeting with the solution you need to be familiar with the attacks on double encryption with symmetric ciphers. Here's the thing you'll need:
+153 145 171 61 40 75 40 142 47 155 63 63 164 61 156 47 153 145 171 62 40 75 40 142 47 60 106 162 63 64 153 47
